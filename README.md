@@ -6,3 +6,4 @@ yellow
 green
 pink
 orange
+all the colors of the rainbow
